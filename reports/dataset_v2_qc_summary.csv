@@ -1,0 +1,15 @@
+﻿check,result
+shape_check,PASS
+nan_inf_check,PASS
+original_train_preservation,PASS
+oversampling_check,PASS
+episode_boundary_check,PASS
+validation_unchanged,PASS
+test_unchanged,PASS
+high_dynamic_unique_frames,1596
+high_dynamic_correct_count,1596
+high_dynamic_wrong_count,0
+normal_wrong_count,0
+dataset_v1_high_dynamic_ratio_percent,9.975000000000001
+dataset_v2_high_dynamic_ratio_percent,24.947894956231764
+overall_qc,PASS

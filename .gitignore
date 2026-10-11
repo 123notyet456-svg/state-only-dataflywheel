@@ -1,0 +1,56 @@
+# Raw or generated data
+data/
+raw_data/
+incoming/
+metadata/
+dataset_v1/*
+dataset_v2/*
+dataset_v3/*
+*.npz
+*.parquet
+*.pkl
+*.pickle
+*.mp4
+*.mkv
+*.avi
+*.png
+reports/*predictions*.*
+reports/*failure_frames*.*
+
+# Models, environments, and caches
+models/*
+*.pt
+*.pth
+*.ckpt
+.venv*/
+venv/
+env/
+cache/
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+
+# Local secrets and editor state
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.idea/
+.vscode/
+
+# Explicitly published experiment datasets and checkpoints
+!dataset_v1/train.npz
+!dataset_v1/val.npz
+!dataset_v1/test.npz
+!dataset_v2/train.npz
+!dataset_v2/val.npz
+!dataset_v2/test.npz
+!dataset_v3/train.npz
+!dataset_v3/val.npz
+!dataset_v3/test.npz
+!models/state_policy_best.pt
+!models/state_policy_v2_best.pt
+!models/state_policy_v3_best.pt
+!models/state_policy_matched_best.pt
+!models/temporal_state_policy_best.pt

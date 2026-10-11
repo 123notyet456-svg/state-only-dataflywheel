@@ -1,0 +1,11 @@
+﻿metric,value
+dataset_v1_train_frames,16000
+action_change_top_percent,10
+action_change_threshold,0.005478513380512595
+high_dynamic_frames,1596
+high_dynamic_ratio_percent,9.975000000000001
+extra_copies_per_high_dynamic_frame,2
+added_training_samples,3192
+dataset_v2_train_frames,19192
+dataset_v1_val_frames,2000
+dataset_v1_test_frames,2000

@@ -1,0 +1,7 @@
+metric,value
+test_frames,2000
+test_episodes,5
+overall_mae,0.009072442539036274
+overall_mse,0.0002046160661848262
+worst_episode,49
+worst_episode_mae,0.009998977184295654

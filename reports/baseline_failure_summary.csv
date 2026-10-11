@@ -1,0 +1,16 @@
+metric,value
+overall_test_mae,0.009072442539036274
+overall_test_mse,0.0002046160661848262
+worst_raw_action_dimension,6
+worst_raw_action_name,left_gripper
+worst_raw_action_mae,0.014562355
+worst_normalized_action_dimension,0
+worst_normalized_action_name,left_waist
+worst_normalized_action_mae,0.17476974145327226
+worst_episode,49
+worst_episode_mean_mae,0.009998978115618229
+worst_frame_episode,49
+worst_frame_index,294
+worst_frame_mae,0.027737701
+worst_frame_action_dimension,12
+worst_frame_action_name,right_wrist_rotate

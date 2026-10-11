@@ -1,0 +1,4 @@
+﻿split,episodes,frames,episode_range,shape_check,nan_check,episode_check,leakage_check
+train,40,16000,0-39,PASS,PASS,PASS,PASS
+val,5,2000,40-44,PASS,PASS,PASS,PASS
+test,5,2000,45-49,PASS,PASS,PASS,PASS
